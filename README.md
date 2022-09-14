@@ -1,3 +1,5 @@
-### Hi there 👋 Welcome to my GitHub! la la la
+### <p align= center> Hi there 👋 Welcome to my GitHub! la la la <p>
 
-<img src="200.gif" alt="animated" />
+<p align="center">
+    <img width="600" src="200.gif" alt="tinky winky">
+</p>
