@@ -1,3 +1,3 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-![](200.gif)
+<img src="200.gif" alt="animated" />
