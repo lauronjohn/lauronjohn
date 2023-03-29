@@ -9,7 +9,7 @@
 <p align="center">
 	
 # 💫 About Me:
-I'm currently a Software Engineering student studying at Wuhan University 🌸, China🇨🇳. I love technology and innovation🤖, hacking💻, and learning new things📝📝!! 
+I'm currently a Software Engineering student in Wuhan University 🌸🇨🇳. I love technology and innovation🤖, hacking💻, and learning new things📝📝!! 
 
 
 ## 🌐 Socials:
